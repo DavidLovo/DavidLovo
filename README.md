@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">David Lovo</a> 👋</h1>
 </div>
 <a href="https://ibb.co/H2zL51M"><img src="https://i.ibb.co/Ct7pRNX/githubimg.jpg" alt="githubimg" border="0"></a>
-<img src="https://ibb.co/H2zL51M">
+
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
