@@ -9,6 +9,7 @@
 
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
+- - 📗 Egresado de la carrera de ingenieria en sistema
 - 🎥 APrendamos juntos en https://www.youtube.com/channel/UCIq8bQNdJ9FU4zi1ah5AkLQ
 
 <br>
