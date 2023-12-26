@@ -3,7 +3,7 @@
 </div>
 <a href="https://ibb.co/H2zL51M"><img src="https://i.ibb.co/Ct7pRNX/githubimg.jpg" alt="githubimg" border="0"></a>
 
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/https%3A%2F%2Fwww.youtube.com%2F%40davidlovo224%2Ffeatured">
+
 
 ## Sobre mi
 
